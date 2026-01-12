@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Toto je můj první repositář na GitHubu. Postupně se s tímto nástrojem učím pracovat.
